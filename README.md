@@ -187,4 +187,14 @@ Job satisfaction data reveals concentrated engagement patterns among Research Sc
 
 ---
 
-*This dashboard represents a foundational HR analytics capability, transforming raw employee data into strategic workforce intelligence that drives organizational excellence and competitive advantage.*
+<p style="font-family:'Times New Roman', Times, serif;">
+This dashboard represents a foundational HR analytics capability, transforming raw employee data into strategic workforce intelligence that drives organizational excellence and competitive advantage.
+</p>
+---
+
+📬 Contact
+
+You can explore all related files and resources in the folders above.
+If you encounter any issues or have queries regarding this project, feel free to reach out:
+
+📩 Email: sunnyk36803@gmail.com
