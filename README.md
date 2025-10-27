@@ -4,7 +4,7 @@
 
 ---
 
-## Executive Summary
+##  Summary
 
 This comprehensive HR Analytics Dashboard delivers strategic insights into workforce dynamics, enabling data-driven decision-making for talent management and organizational planning. By consolidating critical metrics across attrition, employee satisfaction, demographic distribution, and departmental performance, this solution empowers HR leaders and business stakeholders to identify retention risks, optimize engagement strategies, and enhance overall workforce stability.
 
